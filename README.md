@@ -7,6 +7,10 @@
 [![Reproducible](https://img.shields.io/badge/Reproducible-✅-blue)](https://www.r-project.org/nosvn/pandoc/R-reproducibility.html)
 [![Regulatory-Compliant](https://img.shields.io/badge/ICH_E9(R1)-Compliant-orange)](https://database.ich.org/sites/default/files/E9-R1_Step4_Guideline_2020_0604.pdf)
 
+➡️ **See the app in production:** [https://jeanmendes-dev.shinyapps.io/bayesian-trial-monitor/](https://jeanmendes-dev.shinyapps.io/bayesian-trial-monitor/)
+
+---
+
 > **Interactive dashboard for real-time, Bayesian-based interim monitoring of Phase II clinical trials — designed for regulatory-grade decision support.**
 
 ![Dashboard Screenshot](img1.png)
