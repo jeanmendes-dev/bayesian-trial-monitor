@@ -9,7 +9,7 @@
 
 > **Interactive dashboard for real-time, Bayesian-based interim monitoring of Phase II clinical trials — designed for regulatory-grade decision support.**
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](img1.png)
 
 ---
 
